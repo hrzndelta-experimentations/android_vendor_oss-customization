@@ -3,6 +3,4 @@ PRODUCT_PACKAGE += \
 	BreezyWeather \
 	Lawnchair \
 	Lawnicons \
-	Smartspacer \
-	SmartspacerBattery \
-	SmartspacerWeather
+	Smartspacer
